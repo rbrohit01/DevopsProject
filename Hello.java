@@ -7,6 +7,7 @@ System.out.println("Hello Worl!!!!");
 
 }
 
-class {
+class TestSubClass{
+//added class name
 System.out.println("Writing Test class");
 }
