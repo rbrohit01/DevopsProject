@@ -6,3 +6,7 @@ System.out.println("Hello Worl!!!!");
 }
 
 }
+
+class {
+System.out.println("Writing Test class");
+}
